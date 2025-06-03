@@ -55,4 +55,3 @@ for linha in pagina_cliente.iter_rows(min_row=2):
 
 # Finalizar o script
 sys.exit()
-mudanca
